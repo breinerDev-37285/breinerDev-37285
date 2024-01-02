@@ -1,4 +1,16 @@
+
+
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <h1 align="center">Hi 👋  I'm Breiner / A simple and a passionate developer ✨ </h1> 
+<div align="center">
+  
+  [![linkedin](https://img.shields.io/badge/-linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/jose-breiner-pai-gonz%C3%A1les-318068236/)
+  [![mail](https://img.shields.io/badge/-mail-red?logo=mail.ru)](mailto:jose.breiner@breinerdev.com)
+  [![dev.to](https://img.shields.io/badge/-dev.to-gray?logo=dev.to)](https://dev.to/breinerdev)
+  
+</div>
+
+
 <br />
 
 <p align="center">
@@ -6,7 +18,7 @@
 </p>
 <br/>
 
-<h2> About me😃 </h2>
+<h2> About me 😃 </h2>
 
 <p align="left">
 Web developer with 3+ years of experience building websites and progressive web applications. Passionate about implementing attractive, intuitive, and responsive designs. Looking to collaborate on challenging projects where I can contribute my front-end and back-end development skills to create excellent digital experiences.
@@ -20,9 +32,8 @@ Web developer with 3+ years of experience building websites and progressive web 
   </a>
 </p>
 
-<br/>
 
-[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=breinerDev-37285&show_icons=true)](https://github.com/windard)
-
-
-<br>
+<h2 > Github </h2>
+<p>
+  <img alig src="https://github-profile-trophy.vercel.app/?username=breinerDev-37285&theme=nord&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
