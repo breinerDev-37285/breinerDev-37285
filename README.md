@@ -38,11 +38,5 @@ Web developer with 3+ years of experience building websites and progressive web 
   <img alig src="https://github-profile-trophy.vercel.app/?username=breinerDev-37285&theme=nord&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filiptronicek&langs_count=8" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a>  
+![Breiner's GitHub stats](https://github-readme-stats.vercel.app/api?username=breinerDev-37285&show_icons=true&theme=tokyonight)
+
