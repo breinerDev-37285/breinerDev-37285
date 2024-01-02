@@ -28,7 +28,7 @@ Web developer with 3+ years of experience building websites and progressive web 
 <h2 > Technologies </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,aws,babel,js,ts,css,tailwind,html,nodejs,gatsby,jest,java,prisma,py,mysql,sqlite,firebase,git,github,docker,nestjs,postman,postgres,nginx,vscode,vite,redux,redis,bash,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=linux,aws,babel,js,ts,nextjs,css,tailwind,html,nodejs,gatsby,jest,java,prisma,py,mysql,sqlite,firebase,git,github,docker,nestjs,postman,postgres,nginx,vscode,vite,redux,redis,bash,linux&perline=12" />
   </a>
 </p>
 
