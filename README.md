@@ -37,6 +37,3 @@ Web developer with 3+ years of experience building websites and progressive web 
 <p>
   <img alig src="https://github-profile-trophy.vercel.app/?username=breinerDev-37285&theme=nord&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
-
-![Breiner's GitHub stats](https://github-readme-stats.vercel.app/api?username=breinerDev-37285&show_icons=true&theme=tokyonight)
-
