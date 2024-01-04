@@ -21,7 +21,7 @@
 <h2> About me 😃 </h2>
 
 <p align="left">
-Web developer with 3+ years of experience building websites and progressive web applications. Passionate about implementing attractive, intuitive, and responsive designs. Looking to collaborate on challenging projects where I can contribute my front-end and back-end development skills to create excellent digital experiences.
+Web developer with experience building websites and progressive web applications. Passionate about implementing attractive, intuitive, and responsive designs. Looking to collaborate on challenging projects where I can contribute my front-end and back-end development skills to create excellent digital experiences.
 </p>
 <br>
 
