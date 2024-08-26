@@ -14,7 +14,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Full%20Stack-Developer;lots%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/breinerDev-37285"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20%Developer;lots%20of%20coding;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <br/>
 
