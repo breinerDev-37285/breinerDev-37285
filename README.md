@@ -32,8 +32,3 @@ Web developer with experience building websites and progressive web applications
   </a>
 </p>
 
-
-<h2 > Github </h2>
-<p>
-  <img alig src="https://github-profile-trophy.vercel.app/?username=breinerDev-37285&theme=nord&column=-1&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
